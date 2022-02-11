@@ -1,0 +1,1 @@
+# settingfile for new machine
