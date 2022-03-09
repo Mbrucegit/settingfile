@@ -11,3 +11,5 @@ cask "typora"
 cask "wechat"
 cask "wechatwork"
 cask "wpsoffice"
+cask "wecom"
+
